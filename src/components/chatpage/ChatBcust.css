@@ -1,0 +1,58 @@
+.tick-heart {
+  width: 48%;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  top: -11px;
+  /* position: relative;
+  top: -12px;
+  height: 45px; */
+}
+
+.fa-trash-alt {
+  color: grey;
+  text-shadow: 1px 1px 1px #ccc;
+  font-size: 17px;
+  position: relative;
+  left: -16px;
+  top: 30px;
+}
+
+.fa-trash-alt:hover {
+  color: red;
+}
+
+.today,
+.yesterday,
+.dateformat {
+  border: 1px solid #1212;
+  text-align: center;
+  padding: 4px;
+  font-weight: bolder;
+  width: 102%;
+  border-left-style: none;
+  border-right-style: none;
+}
+
+.tick {
+  padding-top: 7px;
+  position: relative;
+  right: -43px;
+}
+
+.message-list {
+  max-width: 300px;
+}
+
+.scroll-message {
+  width: 115%;
+}
+
+.message {
+  overflow-wrap: break-word;
+  /* width: max-content; */
+}
+
+.message-parent {
+  width: 311px;
+}

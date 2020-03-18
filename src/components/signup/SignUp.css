@@ -1,0 +1,30 @@
+.parent-sign{
+    width: 100%;
+    height: 654px;
+    text-align: center;
+    background-image: url('/signp.jpg');
+    /* background-repeat: no-repeat; */
+}
+
+/* .image{
+    
+} */
+.form-sign{
+    height: 36%;
+}
+
+.formdiv-sign{
+    width: 87%;
+    height: 131%;
+    position: relative;
+    top: 88%;
+}
+
+.child-sign{
+    margin-bottom: 17px;
+}
+
+.submit-input{
+    margin-left: 363px;
+    margin-right: 360px;
+}

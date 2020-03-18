@@ -1,0 +1,12 @@
+.home-page {
+  display: flex;
+}
+
+.online-home {
+  width: 18%;
+  position: sticky;
+}
+
+.chatboxed {
+  width: 34%;
+}

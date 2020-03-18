@@ -1,0 +1,8 @@
+.flex-modal {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.flex-modal div {
+  margin-right: 4px;
+}
